@@ -16,7 +16,7 @@
 <body id="main">
   <div>
     <nav class="navbar navbar-expand-lg navbar-dark bg-primary static-top">
-        <a class="navbar-brand bg-secondary"  href="index.html">Latitude</a>
+        <a class="navbar-brand bg-secondary brand"  href="index.html">Latitude</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
@@ -57,11 +57,11 @@
   </div>
   <div class="container">
     <div class="row">
-      <div class="col-lg-7 col-md-12">
+      <div class="col-lg-8 col-md-12">
         <div class="jumbotron">
-          <h3 class="display-4">Summary: Latitude vs. X</h3>
+          <h5 class="heading">Summary: Latitude vs. X</h5>
           <hr class="my-4">
-          <img src="Resources/assets/images/Fig1.png" alt="Latitude Comparison charts" class="img-thumbnail float-left">
+          <img src="Resources/assets/images/Fig1.png" alt="Latitude Comparison charts" class="img-small float-left">
           <p>The purpose of this project was to analyze how weather changes as you get closer to the equator. 
             To accomplish this analysis, we first pulled data from the OpenWeatherMap API to assemble a dataset on over 500 cities</p>
           
@@ -74,15 +74,33 @@
           
         </div>
       </div>
-      <div class="col-md-4">
-        <div class="thumbnail">
-          <img src="https://i.ytimg.com/vi/tntOCGkgt98/maxresdefault.jpg" alt="..." class="img-thumbnail">
-        </div>
-        <div class="caption">
-            <h3>Thumbnail label</h3>
-            <p>...</p>
-            <p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
-        </div>
+      <div class="col-lg-4 col-md-12" >
+        <div class="jumbotron">
+          <h5 class="heading">Visualizations</h5>
+          <hr>
+          <div class="row">
+            <div class="col-lg-6 col-md-3 col-sm-3">
+              <div >
+                <a href="temperature.html" ><img src="Resources/assets/images/Fig1.png"  alt="Temperature Chart" class="img-thumbnail"></a>
+              </div>              
+            </div>
+            <div class="col-lg-6 col-md-3 col-sm-3">
+              <div >
+                <a href="humidity.html" ><img src="Resources/assets/images/Fig2.png" alt="Humidity Chart" class="img-thumbnail"> </a>
+              </div>
+            </div>
+
+            <div class="col-lg-6 col-md-3 col-sm-3">
+              <div >
+                <a href="cloudiness.html" ><img src="Resources/assets/images/Fig3.png" alt="Cloudiness Chart" class="img-thumbnail"> </a>
+              </div>              
+            </div>
+            <div class="col-lg-6 col-md-3 col-sm-3">
+              <div >
+                <a href="windspeed.html" ><img src="Resources/assets/images/Fig4.png" alt="Windspeed Chart" class="img-thumbnail"> </a>
+              </div>
+          </div>
+          </div>
       </div>
     </div>
   </div>

@@ -27,3 +27,26 @@ html, body {
     height: 200px;
     background-image: linear-gradient(to right, rgb(137, 181, 199), rgb(210, 225, 231))
   }
+
+.img-small {
+    height :200px;
+    width :250px;
+    padding: 10px;
+}
+
+.img-thumbnail {
+    height :125px;
+    width :200px;
+    margin-top: 5%;
+}
+
+.box {
+    height: 400px;
+    padding: 20px;
+    color: #fff;
+    background: deepskyblue;
+  }
+  
+.brand {
+    width : 100px;
+}
