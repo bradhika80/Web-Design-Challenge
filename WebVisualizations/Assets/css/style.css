@@ -38,6 +38,13 @@ html, body {
     height :125px;
     width :200px;
     margin-top: 5%;
+    padding : 2px;
+}
+
+.img-large {
+    height :500px;
+    width :600px;
+    padding: 10px;
 }
 
 .box {
@@ -46,7 +53,27 @@ html, body {
     color: #fff;
     background: deepskyblue;
   }
-  
+
 .brand {
     width : 100px;
+}
+/* Paragraph Element */
+p{
+    color: #24282c;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px; 
+   }
+
+/* sectionheading Class  */
+.sectionheading{
+    color: #0BADA6;  
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder; 
+    
+}
+
+.highlight{
+    border-color:#41414e;
+    border-style: solid; 
+    
 }
