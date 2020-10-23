@@ -6,19 +6,8 @@ Data is more powerful when we share it with others! Let's take create a dashboar
 
 ![Images/landingResize.png](Images/landingResize.png)
 
-###  
 
-1. Create a new repository for this project called `Web-Design-Challenge`.  
-
-2. Clone the new repository to your computer.
-
-3. Inside your local git repository, create a directory for the web challenge. Use a folder name to correspond to the challenge: **WebVisualizations**.
-
-4. Add your **html** files to this folder as well as your **assets**, **Resources** and **visualizations** folders.
-
-5. Push the above changes to GitHub or GitLab.
-
-6. Deploy to GitHub pages. 
+The Dashboard can be viewed from https://bradhika80.github.io/Web-Design-Challenge/WebVisualizations/index.html
 
 ## Latitude - Latitude Analysis Dashboard with Attitude
 
