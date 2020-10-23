@@ -1,14 +1,14 @@
-# Web Design Homework - Web Visualization Dashboard (Latitude)
+# Web Visualization Dashboard (Latitude)
 
 ## Background
 
-Data is more powerful when we share it with others! Let's take what we've learned about HTML and CSS to create a dashboard showing off the analysis we've done.
+Data is more powerful when we share it with others! Let's take create a dashboard showing off the analysis using HTML and css.
 
 ![Images/landingResize.png](Images/landingResize.png)
 
-### Before You Begin
+###  
 
-1. Create a new repository for this project called `Web-Design-Challenge`. **Do not add this homework to an existing repository**.
+1. Create a new repository for this project called `Web-Design-Challenge`.  
 
 2. Clone the new repository to your computer.
 
